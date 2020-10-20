@@ -1,70 +1,293 @@
-# URL to online version
+# Factsheet for health professionals on Coronaviruses 
 
-https://www.ncbi.nlm.nih.gov/pubmed/32461068/
-https://doi.org/10.1016/j.ajic.2020.05.018
-https://www.sciencedirect.com/science/article/pii/S0196655320302807?v=s5
-https://api.elsevier.com/content/article/pii/S0196655320302807
+**_Disclaimer:_** _The information contained in this fact sheet is intended for the purpose of general information and should not substitute individual expert advice or judgement of healthcare professionals._
+
+##  **Introduction**
+
+Coronaviruses (CoV) have been identified as human pathogens since the 1960’s. Coronaviruses infect humans and many other vertebrates . Illness in humans is mostly respiratory or gastrointestinal infections, however symptoms can range from the common cold to more severe lower respiratory infections such as pneumonia [1]. A broad range of coronaviruses are found in bats, which might play a crucial role in the virus evolution of _alpha_ \- and _betacoronavirus_ lineages in particular. However, other animal species can also act as an intermediate host and animal reservoir.
+
+Zoonotic coronaviruses have emerged in recent years to cause human outbreaks, such as the Severe Acute Respiratory Syndrome (SARS) in 2003 and the Middle East Respiratory Syndrome (MERS) since 2012.
+
+##  **The pathogens**
+
+Coronaviruses are enveloped positive stranded RNA viruses in the order of _Nidovirales_ _[2]_. With their characteristic surface, the virions have a crown-like appearance under the electron microscope, which is why the viruses are named after the Latin word corona, meaning 'crown' or 'halo'. The subfamily _Orthocoronavirinae_ of the family _Coronaviridae_ is further classified into four coronavirus (CoV) genera: Alpha-, Beta-, Delta-- and _Gammacoronavirus_. _Betacoronavirus_ genus is further separated in five subgenera (Embecovirus, Hibecovirus, Merbecovirus, Nobecovirus and _Sarbecovirus_ ). Coronaviruses were identified in the mid-1960s and are known to infect humans and a variety of animals (including birds and mammals). Epithelial cells in the respiratory and gastrointestinal tract are the primary target cells. Due to these characteristics, viral shedding occurs via these systems and transmission can occur through different routes: fomites, airborne or faecal-oral.
+
+To date, seven coronaviruses have been shown to infect humans. Common human coronaviruses _Betacoronavirus_ HCoV-OC43 and HCoV-HKU1 as well as _Alphacoronavirus_ HCoV-229E cause common colds but also severe lower respiratory tract infections in the youngest and oldest age groups; while _Alphacoronavirus_ HCoV-NL63 is considered to be an important cause of (pseudo) croup and bronchiolitis in children [3].
+
+Additional zoonotic coronaviruses have emerged and caused outbreaks in humans: SARS-CoV (2002, _Betacoronavirus_ , subgenus _Sarbecovirus_ ), and MERS-CoV (2012, _Betacoronavirus_ , subgenus _Merbecovirus_ ). In late 2019, a novel coronavirus related to a cluster of pneumonia cases in Wuhan, China (SARS-CoV-2) was identified. The SARS-CoV-2 is closely related to SARS-CoV and genetically clusters within _Betacoronavirus_ subgenus _Sarbecovirus_ _[4-6]_.
+
+##  **Clinical features and sequelae**
+
+Human infections with common coronaviruses are mostly mild and asymptomatic, but severe and fatal infections have been observed. Occasionally, the viruses are able to cause more significant lower respiratory tract infections in humans with pneumonia; this is more likely in immunocompromised individuals, people with cardiopulmonary illnesses, as well as the elderly and young children [3,7,8].
+
+SARS-CoV was identified and caused large outbreaks in 2002–2003; the virus affected 8 096 people causing severe pulmonary infections in different countries globally [7,9,10]
+
+MERS-CoV was identified in 2012 in Saudi-Arabia. Clinical presentation following MERS-CoV infection can range from asymptomatic to symptomatic. Symptoms can include fever, cough and shortness of breath, with pneumonia as a common clinical diagnosis. Symptoms can progres in severe cases to acute respiratory distress syndrome (ARDS), septic shock and multi-organ failure resulting in death. In addition, the gastrointestinal tract can be involved with gastrointestinal symptoms, such as diarrhoea. **** The clinical course is more severe in immunocompromised patients [8,9].
+
+As regards the SARS-CoV-2, epidemiological and serological information is still lacking, limiting our ability to describe the full disease spectrum caused by this virus. Currently, 20–25% of laboratory-confirmed cases have severe clinical presentations [11]. Symptoms reported to date in patients infected with SARS-CoV-2 include mainly fever and difficulty breathing, with radiological findings of pneumonia [12]. However, severe and even critically ill patients with ARDS have also been reported.
+
+##  **Epidemiology**
+
+During the emergence of Severe Acute Respiratory Syndrome-related coronavirus (SARS-CoV) in 2002–2003, the virus affected 8 096 people causing severe pulmonary infections, with 774 deaths (case-fatality ratio: 10%) [7,13].
+
+For MERS-CoV, dromedary camels are important animal reservoirs of the virus and are considered the main intermediate animal host source for human MERS-CoV infections. The majority of human cases have been observed in the Arabian Peninsula, reported from healthcare-associated outbreaks in Saudi Arabia, the United Arab Emirates and South Korea [14-16], while small numbers of imported cases have been reported from various countries. Transmission to patients sharing a room or ward with a MERS patient, to healthcare workers and to family visitors has occurred during healthcare-associated outbreaks [17]. No sustained human-to-human transmission or community outbreaks outside of close contacts have been documented for MERS. The analysis of transmission patterns is supported by molecular epidemiological studies, which are able to identify relatedness of viruses despite no obvious risk factors for transmission [18]. The case-fatality ratio of MERS-CoV infections is estimated to be 35% [9].
+
+For the SARS-CoV-2, the first reported cluster of hospitalised patients with pneumonia was reported on 31 December 2019, from Wuhan, China [19]. Subsequently, reports of cases increased sharply, mainly in China, as well as reports of travel-related cases, with exposure to Wuhan [6,20]. Human-to-human transmission also occurs, as indicated by infection in persons without exposure to wet markets but with exposure to people with respiratory symptoms and by infections among healthcare workers[11].
+
+##  **Transmission**
+
+A broad range of coronaviruses are found in bats, which might play a crucial role in the virus evolution of _alpha_ \- and _betacoronavirus_ lineages in particular. However, other animal species can also act as host and animal reservoir.
+
+The incubation period of coronaviruses ranges from 2–14 days. SARS-CoV had an incubation period between 3–10 days and MERS-CoV up to 14 days.
+
+In humans, the transmission of coronaviruses between an infected individual and others can occur via respiratory secretions. This can happen either directly through droplets from coughing or sneezing, or indirectly through touching contaminated objects or surfaces as well as close contact, such as touching or shaking hands and then y touching your nose, eyes or mouth. Nosocomial transmission has been described as an important driver in the epidemiology of SARS and MERS.
+
+For SARS-CoV, bats were the likely origin of the virus, which further spread to Himalayan palm civets, Chinese ferret badgers and raccoon dogs at the wet markets of Guangdong, China. People handling or consuming these animals were infected and further spread the virus through human-to-human transmission.
+
+For MERS-CoV, human-to-human infections related to healthcare settings have been responsible for the majority of cases. Although the precise routes of human-to-human transmission (e.g. droplet, airborne or ingestion) are still unclear, close contact is known to facilitate transmission. Contact with infected animals can also be a route of infection; zoonotic infections due to the consumption of raw camel milk, or other camel products related to MERS-CoV infections have also been reported [9].
+
+For the SARS-CoV-2, the source of infection, animal host and reservoir are currently unknown [6,20].
+
+##  **Diagnostics**
+
+In humans, MERS-CoV has been detected in respiratory tract specimens (such as sputum, nasopharyngeal swab, endotracheal aspirate), as well as in urine, faeces and blood [8]. Viral shedding has been detected for three weeks or longer after infection [10]. Interim guidance documents for the testing of [MERS-CoV](https://www.who.int/csr/disease/coronavirus_infections/mers-laboratory-testing/en/) has been developed by WHO [17].
+
+For the novel coronavirus SARS-CoV-2, WHO and ECDC developed interim guidance for laboratory testing to support EU/EEA Member States, as prompt case confirmation is necessary to ensure rapid and effective contact tracing, implementation of infection prevention and control measures according to national recommendations, and collection of relevant epidemiological and clinical information [21,22]. For the SARS-CoV-2 it is important to note that one negative result in a patient with strong epidemiological or clinical suspicion for disease should be confirmed with a second specific RT-PCR test targeting a different gene and/or a clinical sample from a different anatomical site.
+
+Coinfection with other respiratory pathogens that can also cause lower respiratory disease such as viruses (influenza, respiratory syncytial and metapneumovirus), bacteria ( _Haemophilus_ , _Bordetella_ etc) cannot be excluded, Therefore strongly suspected patients should be thoroughly investigated. 
+
+## **Case management**
+
+The clinical manifestations of MERS-CoV infections range from asymptomatic infection to severe pneumonia, often complicated by ARDS, septic shock, and multi-organ failure leading to death. High-risk groups include those with advanced age and co-morbid conditions, particularly immunosuppression [23,24].
+
+There is currently no specific treatment or vaccine against coronavirus-caused respiratory illness. Supportive care is the mainstay of management for all patients including the ones confirmed with SARS, MERS or SARS-CoV-2. Oxygen, IV fluids and possible mechanical ventilation may be warranted for all patients with severe clinical presentation. Several antiviral treatments including ribavirin, interferons and the anti-HIV combination lopinavir/ritonavir or remdesivir are under investigation for use against MERS-CoV infection and have been initiated against the SARS-CoV-2 [25,26].
+
+##  **Public health control measures**
+
+In the past, systematic implementation of public health measures such as active case finding, prompt isolation of cases and quarantine of contacts, as well as strict application of infection control practices have been successful in controlling outbreaks, such as the SARS outbreak of 2003 [27]. 
+
+## **Case definition**
+
+Only SARS is currently notifiable in the EU [28]; the case definition laid down in Commission implementing decision (EU) 2018/945 of 22 June 2018 can be found in Annex 1.
+
+Cases of MERS-CoV and the SARS-CoV-2 infection should be immediately reported to the Early Warning and Response System (EWRS) in accordance with Decision No 1082/2013 on serious cross-border threats to health[29].
+
+In addition, WHO has developed a case definition for the reporting of MERS-CoV and the SARS-CoV-2, which emerged in December 2019 [30] under IHR (2005) [31,32].
+
+##  **Other control measures**
+
+In the large healthcare associated outbreaks of MERS-CoV in Saudi Arabia, transmission was mostly attributed to poor implementation of infection prevention and control protocols. Therefore, prompt identification of cases, contact tracing and strict application of IPC protocols in healthcare settings remain the mainstays of control of MERS-CoV spread, along with avoidance of contact with animals (e.g. drinking raw camel milk) [33]. 
+
+Regarding the SARS-CoV-2, several vital pieces of information on the infectivity, spectrum of clinical presentation and environmental persistence remain unknown. Knowledge gathered from the response to the above-mentioned SARS-CoV and MERS-CoV outbreaks is being used as a surrogate to assist in informing the control of the currently evolving outbreak that is occurring mainly in China. As such, prompt identification of cases, isolation and contact tracing is currently the mainstream advice for containing possible secondary transmission from imported cases [11].
+
+ECDC has published a document on [public health management of persons having had contact with novel coronavirus cases in the European Union](https://www.ecdc.europa.eu/sites/default/files/documents/Public-health-management-contact-novel-coronavirus-cases-EU_0.pdf) on its website.
+
+##  **Infection prevention control advice**
+
+###  **General**
+
+In order to reduce the risk of the spread of coronavirus infections, basic preventative measures are advised for the public, including: good respiratory hygiene and respiratory etiquette; frequent careful hand washing; avoiding touching one's eyes, mouth and nose; sanitary disposal of oral and nasal discharges as well as avoiding contact with sick people.
+
+Zoonotic infections due to the consumption of raw camel milk, or other camel products related to MERS-CoV infections have been reported. Adequate food and hand hygiene minimise the risk of transmission through such animal products. Therefore, all relevant camel products should be properly cooked, pasteurised or heat-treated before consumption. In unpasteurised camel milk, MERS-CoV remains infectious beyond 72 hours after introduction to the milk but infectious viruses could not be found after pasteurisation [34]. The persistence of the virus in the outdoor environment is not clear.
+
+##  **For health professionals**
+
+During the SARS and MERS outbreaks, infection of healthcare staff was a significant concern. Strict infection prevention and control procedures (IPC) are critical for occupational safety and for the control of those pathogens.
+
+MERS-CoV has been cultured from air and from surfaces and medical equipment up to several days after contact with a positive patient. MERS-CoV remains viable on plastic and metal surfaces for 48 hours at 20°C and 40% relative humidity, which represent common environmental conditions in a hospital ward or regular indoor space. The virions are sensitive to heat, lipid solvents, non-ionic detergents, oxidising agents and ultraviolet light [34]. Viability decreases at higher temperatures or higher levels of relative humidity [34].
+
+Specific guidance for the IPC procedures when caring for a suspect or confirmed MERS-CoV infected patient are available from WHO [35]. 
+
+For aerosol-generating procedures, such as tracheal intubation, broncho-alveolar lavage and manual ventilation, airborne precautions are recommended. The guidance recommends that the procedure should be performed in an adequately ventilated room with the number of persons in the room limited to a minimum.
+
+For the novel coronavirus SARS-CoV-2, while there are still important gaps in the information relevant to determining appropriate prevention and control measures (e.g. virus persistence in the environment), guidance for IPC has been developed by WHO drawing upon the experience with the SARS and MERS outbreaks in the past [6,35].
+
+##  **List of references**
+
+1\. Channappanavar R, Perlman S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Seminars in Immunopathology. 2017 July 01;39(5):529-39.
+
+2\. Viruses ICoTo. ICTV 9th Report 2011 [14 January 2020]. Available from: h[ttps://talk.ictvonline.org/ictv-reports/ictv_9th_report/positive-sense-rna-viruses-2011/w/posrna_viruses/223/coronaviridae-figures.](//talk.ictvonline.org/ictv-reports/ictv_9th_report/positive-sense-rna-viruses-2011/w/posrna_viruses/223/coronaviridae-figures.)
+
+3\. Yin Y, Wunderink RG. MERS, SARS and other coronaviruses as causes of pneumonia. Respirology. 2018;23(2):130-7.
+
+4\. Wuhan City Health Committee (WCHC). Wuhan Municipal Health Committee's report on unexplained viral pneumonia 2020 [14 January 2020]. Available from: h[ttp://wjw.wuhan.gov.cn/front/web/showDetail/2020010509020.](//wjw.wuhan.gov.cn/front/web/showDetail/2020010509020.)
+
+5\. WHO. WHO Statement Regarding Cluster of Pneumonia Cases in Wuhan, China Geneva2020 [updated 9 January 202014 January 2020]. Available from: h[ttps://www.who.int/china/news/detail/09-01-2020-who-statement-regarding-cluster-of-pneumonia-cases-in-wuhan-china.](//www.who.int/china/news/detail/09-01-2020-who-statement-regarding-cluster-of-pneumonia-cases-in-wuhan-china.)
+
+6\. WHO. Novel Coronavirus – China Geneva2020 [updated 12 January 202014 January 2020]. Available from: h[ttps://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/.](//www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/)
+
+7\. WHO. SARS (Severe Acute Respiratory Syndrome) Geneva [14 January 2020]. Available from: h[ttps://www.who.int/ith/diseases/sars/en/.](//www.who.int/ith/diseases/sars/en/)
+
+8\. Hui DS, Azhar EI, Kim Y-J, Memish ZA, Oh M-d, Zumla A. Middle East respiratory syndrome coronavirus: risk factors and determinants of primary, household, and nosocomial transmission. The Lancet Infectious Diseases. 2018;18(8):e217-e27.
+
+9\. European Centre for Disease Prevention and Control (ECDC). Rapid risk assessment: Severe respiratory disease associated with Middle East respiratory syndrome coronavirus (MERS-CoV), 22nd update. 2018.
+
+10\. Corman, V. M., et al. (2015). "Viral Shedding and Antibody Response in 37 Patients With Middle East Respiratory Syndrome Coronavirus Infection." Clinical Infectious Diseases **62** (4): 477-483.
+
+11\. WHO. Statement on the meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV) 2020 [updated 23 January 2020]. Available from: h[ttps://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)](//www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-\(2005\)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-\(2019-ncov\)).
+
+12\. European Centre for Disease Prevention and Control (ECDC). Risk assessment: Outbreak of acute respiratory syndrome associated with a novel coronavirus, Wuhan, China; first update 2020 [updated 22 January 2020]. Available from: h[ttps://www.ecdc.europa.eu/en/publications-data/risk-assessment-outbreak-acute-respiratory-syndrome-associated-novel-coronavirus.](//www.ecdc.europa.eu/en/publications-data/risk-assessment-outbreak-acute-respiratory-syndrome-associated-novel-coronavirus.)
+
+13\. European Centre for Disease Prevention and Control (ECDC). Facts about severe acute respiratory syndrome (SARS) Stockholm2018 [14 January 2020]. Available from: h[ttps://www.ecdc.europa.eu/en/severe-acute-respiratory-syndrome/facts.](//www.ecdc.europa.eu/en/severe-acute-respiratory-syndrome/facts.)
+
+14\. Oboho IK, Tomczyk SM, Al-Asmari AM, Banjar AA, Al-Mugti H, Aloraini MS, et al. 2014 MERS-CoV outbreak in Jeddah—a link to health care facilities. New England Journal of Medicine. 2015;372(9):846-54.
+
+15\. Cowling BJ, Park M, Fang VJ, Wu P, Leung GM, Wu JT. Preliminary epidemiologic assessment of MERS-CoV outbreak in South Korea, May–June 2015. Euro surveillance: bulletin Europeen sur les maladies transmissibles= European communicable disease bulletin. 2015;20(25).
+
+16\. Kim K, Tandi T, Choi JW, Moon J, Kim M. Middle East respiratory syndrome coronavirus (MERS-CoV) outbreak in South Korea, 2015: epidemiology, characteristics and public health implications. Journal of Hospital Infection. 2017;95(2):207-13.
+
+17\. WHO. Laboratory testing for Middle East Respiratory Syndrome Coronavirus. Interim guidance 2018 [24 January 2020]. Available from: h[ttps://www.who.int/csr/disease/coronavirus_infections/mers-laboratory-testing/en/.](//www.who.int/csr/disease/coronavirus_infections/mers-laboratory-testing/en/)
+
+18\. Corman VM, Albarrak AM, Omrani AS, Albarrak MM, Farah ME, Almasri M, et al. Viral Shedding and Antibody Response in 37 Patients With Middle East Respiratory Syndrome Coronavirus Infection. Clinical Infectious Diseases. 2015;62(4):477-83.
+
+19\. Wuhan City Health Committee (WCHC). Wuhan Municipal Health and Health Commission's briefing on the current pneumonia epidemic situation in our city 2019 [updated 31 December 201914 January 2020]. Available from: h[ttp://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989.](//wjw.wuhan.gov.cn/front/web/showDetail/2019123108989.)
+
+20\. European Centre for Disease Prevention and Control (ECDC). Novel coronavirus in China 2020 [24 January 2020]. Available from: h[ttps://www.ecdc.europa.eu/en/novel-coronavirus-china.](//www.ecdc.europa.eu/en/novel-coronavirus-china.)
+
+21\. European Centre for Disease Prevention and Control (ECDC). Laboratory testing of suspect cases of 2019 nCoV using RT-PCR 2020 [17 January 2020]. Available from: h[ttps://www.ecdc.europa.eu/en/publications-data/laboratory-testing-suspect-cases-2019-ncov-using-rt-pcr.](//www.ecdc.europa.eu/en/publications-data/laboratory-testing-suspect-cases-2019-ncov-using-rt-pcr.)
+
+22\. WHO. Laboratory testing for 2019 novel coronavirus (2019-nCoV) in suspected human cases 2020 [17 January 2020]. Available from: h[ttps://www.who.int/health-topics/coronavirus/laboratory-diagnostics-for-novel-coronavirus.](//www.who.int/health-topics/coronavirus/laboratory-diagnostics-for-novel-coronavirus.)
+
+23\. Arabi YM, Balkhy HH, Hayden FG, Bouchama A, Luke T, Baillie JK, et al. Middle East respiratory syndrome. New England Journal of Medicine. 2017;376(6):584-94.
+
+24\. WHO. Clinical management of severe acute respiratory infection when Middle East respiratory syndrome coronavirus (MERS-CoV) infection is suspected. Interim guidance 2019 [updated January 2019]. Available from: h[ttps://www.who.int/csr/disease/coronavirus_infections/case-management-ipc/en/.](//www.who.int/csr/disease/coronavirus_infections/case-management-ipc/en/)
+
+25\. Sheahan TP, Sims AC, Leist SR, Schäfer A, Won J, Brown AJ, et al. Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERS-CoV. Nature Communications. 2020 2020/01/10;11(1):222.
+
+26\. WHO. Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected 2020 [17 January 2020]. Available from: h[ttps://www.who.int/internal-publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected.](//www.who.int/internal-publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-\(ncov\)-infection-is-suspected.)
+
+27\. Bell DM, World Health Organization Working Group on I, Community Transmission of S. Public health interventions and SARS spread, 2003. Emerging infectious diseases. 2004;10(11):1900-6.
+
+28\. COMMISSION IMPLEMENTING DECISION (EU) 2018/945 of 22 June 2018 on the communicable diseases and related special health issues to be covered by epidemiological surveillance as well as relevant case definitions, (2018).
+
+29\. Decision No 1082/2013/EU of the European Parliament and of the Council of 22 October 2013 on serious cross-border threats to health and repealing Decision No 2119/98/EC 2013 [17 January 2020]. Available from: h[ttps://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013D1082.](//eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013D1082.)
+
+30\. WHO. Surveillance case definitions for human infection with novel coronavirus (nCoV) 2020 [17 January 2020]. Available from: h[ttps://www.who.int/internal-publications-detail/surveillance-case-definitions-for-human-infection-withnovel-coronavirus-(ncov)](//www.who.int/internal-publications-detail/surveillance-case-definitions-for-human-infection-withnovel-coronavirus-\(ncov\)).
+
+31\. WHO. Middle East respiratory syndrome coronavirus: Case definition for reporting to WHO 2017 [23 January 2020]. Available from: h[ttps://www.who.int/csr/disease/coronavirus_infections/case_definition/en/.](//www.who.int/csr/disease/coronavirus_infections/case_definition/en/)
+
+32\. WHO. International Health Regulations (2005), 3rd Ed. 2016 [17 January 2020]. Available from: h[ttps://www.who.int/ihr/publications/9789241580496/en/.](//www.who.int/ihr/publications/9789241580496/en/)
+
+33\. Mackay IM, Arden KE. MERS coronavirus: diagnostics, epidemiology and transmission. Virol J. 2015 Dec 22;12:222.
+
+34\. van Doremalen N, Bushmaker T, Munster VJ. Stability of Middle East respiratory syndrome coronavirus (MERS-CoV) under different environmental conditions. Eurosurveillance. 2013;18(38):20590.
+
+35\. WHO. Infection prevention and control during health care for probable or confirmed cases of Middle East respiratory syndrome coronavirus (MERS-CoV) infection. Interim guidance 2019 [updated October 2019]. Available from: <https://www.who.int/csr/disease/coronavirus_infections/ipc-mers-cov/en/>.
+
+##  **ANNEX**
+
+###  **Case definition SARS, 2018**
+
+ **Clinical criteria**
+
+Any person with fever or a history of fever
+
+AND
+
+At least one of the following three:
+
+  * Cough
+  * Difficulty in breathing
+  * Shortness of breath
 
 
-# Title
 
-Absence of nosocomial transmission of coronavirus disease 2019 (COVID-19) due to SARS-CoV-2 in the pre-pandemic phase in Hong Kong
+AND
 
+At least one of the following four:
 
-# Abstract
-
-BACKGROUND: To describe the infection control strategy to achieve zero nosocomial transmission of symptomatic coronavirus disease (COVID-19) due to SARS-CoV-2 during the pre-pandemic phase (the first 72 days after announcement of pneumonia cases in Wuhan) in Hong Kong. METHODS: Administrative support with the aim of zero nosocomial transmission by reducing elective clinical services, decanting wards, mobilizing isolation facilities, providing adequate personal protective equipment, coordinating laboratory network for rapid molecular diagnosis under 4-tier active surveillance for hospitalized- and out-patients, and organizing staff forum and training was implemented under the framework of preparedness plan in Hospital Authority. The trend of SARS-CoV-2 in the first 72 days was compared with that of SARS-CoV 2003. RESULTS: Up to day 72 of the epidemic, 130 (0.40%) of 32,443 patients being screened confirmed to have SARS-CoV-2 by RT-PCR. Compared with SARS outbreak in 2003, the SARS-CoV-2 case load constituted 8.9% (130 SARS-CoV-2/1458 SARS-CoV) of SARS-CoV infected cases at day 72 of the outbreak. The incidences of nosocomial acquisition of SARS-CoV per-1,000-SARS-patient-day and per-100-SARS-patient-admission were 7.9 and 16.9 respectively, which were significantly higher than the corresponding incidences of SARS-CoV-2 (zero infection, p<0.001). CONCLUSION: Administrative support to infection control could minimize the risk of nosocomial transmission of SARS-CoV-2.
-
-
-# Main text
-
-Pandemic infection of a coronavirus disease 2019 (COVID-19) due to severe acute respiratory syndrome-associated coronavirus-2 (SARS-CoV-2) was declared by World Health Organization (WHO) on 11 March 2020, which is 72 days after announcement of a cluster of patients with community acquired pneumonia in Wuhan, Hubei Province by National Health Commission of the People's Republic of China (NHCPRC), on 31 December 2019 (day 1)1. On day 72, the COVID-19 had already spread to 113 countries or territories in five continents, resulting in 118,319 confirmed cases all over the world2. While the epidemic of COVID-19 is slowing down in China, there is active community transmission in Europe and North America, resulting in 30% of disease burden is outside China2. Overwhelming number of COVID-19 infections could not only paralyze the healthcare system, but more importantly, result in nosocomial outbreak, associated with increased morbidity and mortality of the hospitalized patients and healthcare workers (HCWs). Up to 24 February 2020 (day 56), NHCPRC reported that 3,387 healthcare workers were infected with COVID-19, resulting in 22 (0.6%) deaths3. This has exceeded the number of HCWs death due SARS in mainland China after 6 months in 20034. In Hong Kong, eight HCWs succumbed as a result of nosocomial acquisition of SARS-CoV5. The top priority of our pandemic preparedness is to achieve zero COVID-19 infection among HCWs in Hong Kong.
-
-Here, we report our infection control strategy and epidemiology of SARS-CoV-2 in the first 72 days (from the official announcement of pneumonia by NHCPRC to the declaration of pandemic infection by WHO), using the historical data on the epidemiology of SARS-CoV in Hong Kong for comparison.
-
-After the outbreak of SARS-CoV in 2003, a total of 1755 persons were infected and 299 persons (17.0%) died6. Of 386 healthcare workers (HCWs) infected with SARS-CoV in Hong Kong, 8 of them (2.2%) succumbed. Six HCWs (2 doctors, 1 nurse, and 3 healthcare assistants) of 8 were the employee of Hospital Authority, the governing body of all 43 public hospitals, divided into 7 cluster-networks, responsible for 90% of inpatient service in Hong Kong. A “Select Committee to inquire into the handling of the Severe Acute Respiratory Syndrome outbreak by the Government and the Hospital Authority” was established by the Legislative Council of the Hong Kong Special Administrative Region, China to in order to examine the performance and accountability of the Government and Hospital Authority and their officers at policy-making and management levels7. The report includes temporal sequence of events and daily statistics on SARS patients with breakdown by healthcare workers and patients. The information is retrieved for analyzing the epidemiology of SARS in 20038. When a novel coronavirus disease, known as COVID-19 due to SARS-CoV-2 emerged 17 years later, Hospital Authority immediately activated our response plan to combat the epidemic and to prevent nosocomial transmission and outbreaks of SARS-CoV-2. The clinical perspective of infection control measures was reported recently9. The epidemiology of SARS-CoV-2 until 11 March 2020 (at day 72 after the official announcement of a cluster of pneumonia of unknown etiology in Wuhan, Hubei Province, by NHCPRC in Hong Kong) was analyzed. This is also the date when WHO declared the COVID-19 pandemic. Our results were compared with the epidemiological data of SARS-CoV at day 72 (11 April 2003) after the official announcement of atypical pneumonia in Guangdong Province, China on 11 February 2003. In addition, we also compared the epidemiology of SARS-CoV-2 in Hong Kong with Hubei Province, China, which is the most severe affected region by SARS-CoV-2, and the other countries or areas with uncontrolled local transmission at day 72, including Republic of Korea, Islamic Republic of Iran, and Italy, using the publicly accessible information from the WHO website10.
-
-After the SARS outbreak in 2003, a preparedness plan for emerging infectious diseases, including pandemic influenza and Middle East Respiratory Syndrome-associated coronavirus, was formulated under the governance of Hospital Authority. The preparedness plan to combat against SARS-CoV-2 is basically referring to the framework of these plans. According to the risk assessment, the response levels can be categorized into alert level, serious response level 1 (S1), serious response level 2 (S2), and emergency response level11. The command structure depends on the different response levels (Figure 1
-). In the alert and S1 level, the response plan is coordinated by ad hoc Central Committee on Infectious Disease and Emergency Responses (ad hoc CCIDER). In the S2 and emergency response level, the governance will be under the command of Central Command Committee, which is chaired by Chief Executive of Hospital Authority, or Emergency Executive Committee, which is chaired by Chairman of Hospital Authority. The response measures at each response level comprises of a series of action, including active surveillance and electronic notification, laboratory network for rapid molecular diagnostic, infection control measures, provision of essential medical services, facility management in the hospital, human resources and staff deployment, staff training, research, and communication. Contact tracing for potential secondary cases was performed to investigate for any possible nosocomial infection as reported previously12
-,
-13.
-
-Clinical specimens including nasopharyngeal aspirates, nasopharyngeal swabs, throat swab, saliva, sputum, endotracheal aspirates, or bronchoalveolar lavage were subjected to nucleic acid extraction by the eMAG extraction system (bioMérieux, Marcy-l’Étoile France) as previously described9
-,
-11. The presence of the SARS-CoV-2 RNA in the specimens was first determined by the LightMix Modular SebeccoV E-gene commercial kit (TIB Molbiol, Berlin, Germany) and further confirmed by another in-house real-time RT-PCR assay targeting the SARS-CoV-2 RNA-dependent RNA polymerase/helicase gene14.
-
-The Fisher's exact test was used to compare independent categorical variables between groups. All reported p values were two-sided. A p value of <0.05 was considered statistically significant. Computation was performed using the SPSS Version 15.0 for Windows.
-
-Up to 11 March 2020 (day 72 after the official announcement of a cluster of pneumonia of unknown etiology in Wuhan, Hubei Province, a total of 130 cases of SARS-CoV-2 infection were confirmed in Hong Kong, while the first 42 patients were reported previously9. With these additional cases, there were 63 males and 67 females with a median age of 60 years (range 16 - 96 years). The 130 confirmed cases belonged to 22 clusters, of which 8 clusters could be traced from an index patients who had travel history within 14 days of symptoms onset (Figure 2
-). The first local case of SARS-CoV-2 occurred on day 31, while the onset of 2003 SARS-CoV was also detected on day 31, which occurred as a nosocomial outbreak affecting 39 HCWs in Hong Kong (Figure 3
-). In the first 72 days, the number of infected patients (n=130) with SARS-CoV-2 was 11 times lower than that of SARS-CoV (n=1,458) according to the day-by-day comparison (Figure 3). While the number of infected HCWs for SARS-CoV-2 remained zero on day 72 of 2020, 335 HCWs were infected with SARS-CoV on day 72 in 2003. At the end of the outbreak of 2003 SARS-CoV, 386 HCWs were infected with SARS. 293 (75.9%) of them were investigated for nosocomial acquisition of SARS-CoV in 8 acute hospitals15. The incidences of nosocomial acquisition of SARS-CoV per 1,000 SARS-patient-day and per 100 SARS-patient-admission were 7.9 and 16.9 respectively, which were significantly higher than the corresponding incidences of nosocomial acquisition of SARS-CoV-2 (p<0.001).
-
-In the first 72 days, the incidence of SARS-CoV-2 in Hong Kong was 0.16 per 10,000 populations, which was lower than China (Hubei province), Europe (Italy), Asia (Republic of Korea, and Singapore), and Middle East (Iran) (Table 1
-).
-
-Upon receiving the official announcement of a cluster of pneumonia of unknown etiology in Wuhan, Hubei Province, on 31 December 2020 (day 1), the infection control responses were stepped up by Hospital Authority according to the rapidly evolving epidemiology in Hong Kong9. The level of response towards emerging infectious disease was directly elevated from alert to S2 on day 5. Ad hoc CCIDER was regularly held among infection control professionals in 7 cluster-networks and senior management team in the head office of Hospital Authority (HAHO) to review and update the infection control responses so as to disseminate the information to the frontline staff via open staff forum, department visit, right-on-time training of gowning and degowning of personal protective equipment (PPE). Upon receiving the first imported case of SARS-CoV-2 in Hong Kong on day 22, the response level was further elevated to the emergency level on day 26. The Central Command Committee (CCC) composed of the top management team of 7 cluster-networks and HAHO is responsible for the decision for various administrative supports in consultation with ad hoc CCIDER which is responsible for professional advice. Up to day 72, a total of 16 meetings of ad hoc CCIDER were held once every 5 days on average, especially focusing on the evolution of infection control recommendations issued by World Health Organization and Centers for Disease Control and Prevention of the United States, as well as the scientific evidences published during the evolution of epidemic. CCC was held daily since the activation of emergency level. Hospital Authority has set the priority of service to support the infection control and clinical management against SARS-CoV-2. The elective and non-essential clinical services were trimmed down to reduce the bed occupancies in the hospital. Visitors were prohibited to the hospitals except for compassionate reasons. The utilization of airborne infection isolation room (AIIRs) of 1400 beds in the Hong Kong was closely monitored. The first 20 confirmed cases of SARS-CoV-2 would be admitted to a designated hospital. Subsequently, each cluster-network is required to take care of the next 20 confirmed cases. The major incident control centre of HAHO is responsible for cross cluster-network transfer of confirmed cases. Procurement, distribution, and monitor the utilization of PPE and laboratory reagents for rapid molecular diagnostic among 7 cluster-networks were performed by HAHO and hospital management teams. Accommodation is provided to staffs who are working in high risk areas and isolation facilities during the period of emergency response level.
-
-A 4-tier active surveillance for patients infected with SARS-CoV-2 was implemented for patients upon admission (tier 1 to 3)9, while the tier 4 surveillance was initiated for patients attending outpatient clinics as well as accident and emergency department since 20 February 2020 (day 52) (Table 2
-). From day 1 to day 72, 119 (0.47%) of 25,097 patients fulfilling tier 1 to 3 were confirmed, while between day 52 and 72, eleven (0.15%) of 7,346 out-patients were found to be positive for SARS-CoV-2.
-
-Infection of healthcare workers due to occupational exposure to infectious diseases is always a great challenge to hospital administration and infection control professionals. Sporadic cases of occupation related infection among HCWs due to various infectious diseases such as Mycobacterium tuberculosis, hepatitis B virus, and hepatitis C virus were occasionally reported16. However, the impact of SARS transmission among HCWs was unprecedentedly high. According to WHO, HCWs accounted for 1,707 (21%) of 8,098 cases of SARS patients in 20036. It produced a significant psychosocial effects and long-term psychological effects on HCWs17. Therefore, when the COVD-19 emerged, it is important to maximize our administrative resources and infection control measures to protect our HCWs, which is particularly relevant in Hong Kong as we had 8 HCWs died in 2003 as a result of nosocomial acquisition of SARS-CoV5
-,
-18.
-
-Administrative support to infection control is important to prevent nosocomial outbreak but it is not well studied in recent years19. However, suboptimal administrative support was attributed to the prolonged outbreak of carbapenemase-producing Enterobacteriaceae in a tertiary care hospital in France20, as well as the major outbreak of SARS in Hong Kong7. Therefore, the command structure for preparedness of emerging infectious diseases was established in Hospital Authority in Hong Kong after outbreak of SARS. Through the regular meetings between the hospital representative of infection control professionals and senior hospital administrators, infection control policy could be timely revised and endorsed by all hospitals under the governance of Hospital Authority. For instance, the clinical and epidemiological criteria for active surveillance of suspected case of COVID-19 was serially updated along with the evolving epidemic of COVID-199.
-
-With the support of hospital administration, the infrastructure of hospitals was improved from the period of SARS-CoV to SARS-CoV-2 by the provision of 1400 AIIRs in Hong Kong. Early isolation of patients with SARS-CoV and their close contacts was found to be effective in termination of chain of transmission5
-,
-18 when the viral load SARS was peaked at day 10 after symptoms onset5. For SARS-CoV-2, high viral load was detected soon after onset of symptoms onset21. Therefore, 109 of 130 confirmed cases in our series belong to 22 households or social gathering clusters. It is even more important to perform rapid molecular diagnostic test and isolate patients with SARS-CoV-2 as early as possible. It is the reason why we further extended the scope of active surveillance from hospitalized patients to outpatients who have relatively mild respiratory symptoms, and continue contact tracing for potential secondary cases in order to identify any transmission in hospital and community. Business service department of Hospital Authority plays a key role to secure the timely procurement of diagnostic platforms and reagents, as well as PPE for HCWs because global shortage of PPE becomes strategically important in the pandemic of COVID-19.
-
-Major incident control centre of Hospital Authority coordinates the utilization of isolation facilities by cross hospital transferal of confirmed case of SARS-CoV-2 across different public hospitals in order to avoid an individual hospital being overwhelmed by confirmed cases. Temporal conversion of general wards to AIIRs was conducted to accommodate the increasing number of patients with SARS-CoV-2. In addition, non-emergency clinical services were trimmed down in order to reduce the bed occupancy and improve the manpower ratio of HCWs to patients, which may facilitate the control of outbreak. No visiting policy during emergency response level in Hospital Authority may further reduce the risk of importation of patients with SARS-CoV-2 from the community. Decanting of wards and deployment of HCWs to care for patients with SARS-CoV-2 were planned in advance. As working in an unfamiliar environment and lapses in infection control were attributed to the nosocomial outbreak of SARS22, the deployed HCWs other than the discipline of internal medicine would be oriented for the logistic of patients’ management in the isolation wards and trained for the use of PPE well before managing suspected and confirmed case of SARS-CoV-2. Note that inappropriate removal of PPE may increase the risk of acquisition of SARS-CoV23.
-
-Ongoing staff forum and training sessions for PPE are regularly conducted to enhance the alertness of HCWs. During the community outbreak of pandemic influenza A, provision of timely education to the staff was one of the important parameters to achieve zero nosocomial outbreak of pandemic influenza A H1N1 virus in 200912. The training materials were compiled into a communication kits which is uploaded to the electronic platform of Hospital Authority with free access to all staff. The health promotion messages to HCWs are further promulgated via social media such as Facebook, YouTube, and WhatsApp group.
-
-From the declaration of pandemic (day 72) to the time of manuscript submission on 24 March 2020 (day 85), the number of global confirmed cases of SARS-CoV-2 has nearly tripled (from 118,000 to 332,000). Almost 4,824 HCWs infected with 24 deaths in Italy24. In mainland China, it was shown that 29% (40 of 138) of admitted SARS-CoV-2 patients in Zhongnan hospital, Wuhan were HCWs25. This proves the high risk of nosocomial transmission of SARS-CoV-2. On day 85, the number of confirmed cases of SARS-CoV-2 was over 300 in Hong Kong while zero transmission of SARS-CoV-2 among HCWs and hospitalized patients could be maintained in Hong Kong for almost 3 months, suggestive of a significant improvement in the healthcare infrastructure to combat against emerging infectious diseases in Hong Kong.
-
-This work was supported in part by the Consultancy Service for Enhancing Laboratory Surveillance of Emerging Infectious Diseases of the Department of Health, Hong Kong Special Administrative Region; and the Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, the Ministry of Education of China.
-
-All authors report no conflicts of interest relevant to this article.
+  * Radiographic evidence of pneumonia
+  * Radiographic evidence of acute respiratory distress syndrome
+  * Autopsy findings of pneumonia
+  * Autopsy findings of acute respiratory distress syndrome
 
 
+
+AND
+
+No alternative diagnosis which can fully explain the illness
+
+ **Laboratory criteria**
+
+ **Laboratory criteria for case confirmation**
+
+At least one of the following three:
+
+  * Isolation of virus in cell culture from any clinical specimen and identification of SARS-CoV using method such as RT-PCR.
+  * Detection SARS-CoV nucleic acid in at least one of the following three: 
+    * At least two different clinical specimens (for example, nasopharyngeal swab and stool)
+    * The same clinical specimen collected on two or more occasions during the course of the illness (for example, sequential nasopharyngeal aspirates)
+    * Two different assays or repeat RT-PCR using a new RNA extract from the original clinical sample on each occasion of testing.
+
+
+  * SARS-CoV specific antibody response by one of the following two: 
+    * Seroconversion by ELISA or IFA in acute and convalescent phase serum tested in parallel
+    * Four-fold or greater rise in antibody titre between acute and convalescent phase sera tested in parallel.
+
+
+
+**Laboratory criteria for a probable case**
+
+At least one of the following two:
+
+  * A single positive antibody test for SARS-CoV
+  * A positive PCR result for SARS-CoV on a single clinical specimen and assay.
+
+
+
+**Epidemiological criteria**
+
+At least one of the following three:
+
+  * Any person with at least one of the following three: 
+    * Employed in an occupation associated with an increased risk of SARS-CoV exposure (for example, staff in a laboratory working with live SARS-CoV/SARS-CoV-like viruses or storing clinical specimens infected with SARS-CoV; persons with exposure to wildlife or other animals considered a reservoir of SARS-CoV, their excretions or secretions, etc.) 6.7.2018 EN Official Journal of the European Union L 170/39
+    * Close contact (1) of one or more persons with confirmed SARS or under investigation for SARS
+    * History of travel to, or residence in, an area experiencing an outbreak of SARS.
+  * Two or more healthcare workers (2) with clinical evidence of SARS in the same healthcare unit with onset of illness in the same 10-day period
+  * Three or more persons (healthcare workers and/or patients and/or visitors) with clinical evidence of SARS with onset of illness in the same 10-day period and epidemiologically linked to a healthcare facility
+
+
+
+**Case classification for the inter-epidemic period**
+
+Also applies during an outbreak in a non-affected country or area
+
+A. Possible case
+
+Any person meeting the clinical criteria with an epidemiological link
+
+B. Probable case
+
+Any person meeting the clinical criteria with an epidemiological link and meeting the laboratory criteria for a probable case
+
+C. Nationally confirmed case
+
+Any person meeting the clinical and the laboratory criteria for case confirmation where the testing has been performed at a national reference laboratory
+
+D. Confirmed case
+
+Any person meeting the clinical and the laboratory criteria for case confirmation where the testing has been performed at a WHO SARS verification and reference laboratory
+
+ **Case classification during an outbreak**
+
+Applies during an outbreak in a country/area where at least one person has been laboratory confirmed by a WHO SARS verification and reference laboratory
+
+A. Possible case
+
+Any person meeting the clinical criteria
+
+B. Probable case
+
+Any person meeting the clinical criteria with an epidemiological link to a nationally confirmed or a confirmed case
+
+C. Nationally confirmed case
+
+Any person meeting the clinical and the laboratory criteria for case confirmation where the testing has been performed at a national reference laboratory
+
+D. Confirmed case
+
+One of the following three:
+
+  * Any person meeting the clinical and the laboratory criteria for case confirmation where the testing has been performed at a WHO SARS verification and reference laboratory
+  * Any nationally confirmed case with an epidemiological link to a chain of transmission where at least one case has been independently verified by a WHO SARS Reference and Verification Laboratory
+  * Any person meeting the clinical criteria and with laboratory criteria for probable case with an epidemiological link to a chain of transmission where at least one case has been independently verified by a WHO SARS Reference and Verification Laboratory

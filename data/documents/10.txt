@@ -1,293 +1,102 @@
-# Factsheet for health professionals on Coronaviruses 
+# URL to online version
 
-**_Disclaimer:_** _The information contained in this fact sheet is intended for the purpose of general information and should not substitute individual expert advice or judgement of healthcare professionals._
+https://www.ncbi.nlm.nih.gov/pubmed/32342565/
+https://doi.org/10.1002/hed.26214
 
-##  **Introduction**
 
-Coronaviruses (CoV) have been identified as human pathogens since the 1960’s. Coronaviruses infect humans and many other vertebrates . Illness in humans is mostly respiratory or gastrointestinal infections, however symptoms can range from the common cold to more severe lower respiratory infections such as pneumonia [1]. A broad range of coronaviruses are found in bats, which might play a crucial role in the virus evolution of _alpha_ \- and _betacoronavirus_ lineages in particular. However, other animal species can also act as an intermediate host and animal reservoir.
+# Title
 
-Zoonotic coronaviruses have emerged in recent years to cause human outbreaks, such as the Severe Acute Respiratory Syndrome (SARS) in 2003 and the Middle East Respiratory Syndrome (MERS) since 2012.
+Tracheotomy in the SARS‐CoV‐2 pandemic
 
-##  **The pathogens**
 
-Coronaviruses are enveloped positive stranded RNA viruses in the order of _Nidovirales_ _[2]_. With their characteristic surface, the virions have a crown-like appearance under the electron microscope, which is why the viruses are named after the Latin word corona, meaning 'crown' or 'halo'. The subfamily _Orthocoronavirinae_ of the family _Coronaviridae_ is further classified into four coronavirus (CoV) genera: Alpha-, Beta-, Delta-- and _Gammacoronavirus_. _Betacoronavirus_ genus is further separated in five subgenera (Embecovirus, Hibecovirus, Merbecovirus, Nobecovirus and _Sarbecovirus_ ). Coronaviruses were identified in the mid-1960s and are known to infect humans and a variety of animals (including birds and mammals). Epithelial cells in the respiratory and gastrointestinal tract are the primary target cells. Due to these characteristics, viral shedding occurs via these systems and transmission can occur through different routes: fomites, airborne or faecal-oral.
+# Abstract
 
-To date, seven coronaviruses have been shown to infect humans. Common human coronaviruses _Betacoronavirus_ HCoV-OC43 and HCoV-HKU1 as well as _Alphacoronavirus_ HCoV-229E cause common colds but also severe lower respiratory tract infections in the youngest and oldest age groups; while _Alphacoronavirus_ HCoV-NL63 is considered to be an important cause of (pseudo) croup and bronchiolitis in children [3].
+The severe acute respiratory syndrome (SARS)‐CoV‐2 pandemic continues to produce a large number of patients with chronic respiratory failure and ventilator dependence. As such, surgeons will be called upon to perform tracheotomy for a subset of these chronically intubated patients. As seen during the SARS and the SARS‐CoV‐2 outbreaks, aerosol‐generating procedures (AGP) have been associated with higher rates of infection of medical personnel and potential acceleration of viral dissemination throughout the medical center. Therefore, a thoughtful approach to tracheotomy (and other AGPs) is imperative and maintaining traditional management norms may be unsuitable or even potentially harmful. We sought to review the existing evidence informing best practices and then develop straightforward guidelines for tracheotomy during the SARS‐CoV‐2 pandemic. This communication is the product of those efforts and is based on national and international experience with the current SARS‐CoV‐2 pandemic and the SARS epidemic of 2002/2003.
 
-Additional zoonotic coronaviruses have emerged and caused outbreaks in humans: SARS-CoV (2002, _Betacoronavirus_ , subgenus _Sarbecovirus_ ), and MERS-CoV (2012, _Betacoronavirus_ , subgenus _Merbecovirus_ ). In late 2019, a novel coronavirus related to a cluster of pneumonia cases in Wuhan, China (SARS-CoV-2) was identified. The SARS-CoV-2 is closely related to SARS-CoV and genetically clusters within _Betacoronavirus_ subgenus _Sarbecovirus_ _[4-6]_.
 
-##  **Clinical features and sequelae**
+# Main text
 
-Human infections with common coronaviruses are mostly mild and asymptomatic, but severe and fatal infections have been observed. Occasionally, the viruses are able to cause more significant lower respiratory tract infections in humans with pneumonia; this is more likely in immunocompromised individuals, people with cardiopulmonary illnesses, as well as the elderly and young children [3,7,8].
+The severe acute respiratory syndrome (SARS)‐CoV‐2 pandemic continues to produce a large number of patients with chronic respiratory failure and ventilator dependence. Surgeons will be called upon to perform tracheotomy for a subset of these chronically intubated patients. As seen during the SARS and the SARS‐CoV‐2 outbreaks, aerosol‐generating procedures (AGP) have been associated with higher rates of infection of medical personnel and potential acceleration of viral dissemination throughout the medical center. Therefore, a thoughtful approach to tracheotomy (and other AGPs) is imperative and maintaining traditional management norms may be unsuitable or even potentially harmful. In this backdrop, we sought to review the existing evidence informing best practices and then develop straightforward guidelines for tracheotomy during the SARS‐CoV‐2 pandemic. This communication is the product of those efforts and is based on national and international experience with the current SARS‐CoV‐2 pandemic and the SARS epidemic of 2002/2003.
 
-SARS-CoV was identified and caused large outbreaks in 2002–2003; the virus affected 8 096 people causing severe pulmonary infections in different countries globally [7,9,10]
+Our priorities in establishing these guidelines included: optimal patient care, protection of medical personnel, minimizing further spread of the virus and preservation of important resources (ICU beds, ventilators, and PPE). These recommendations represent a consensus of stakeholders from our medical center including otolaryngologists, trauma surgeons, interventional pulmonologists, anesthesiologists, and critical care providers.
 
-MERS-CoV was identified in 2012 in Saudi-Arabia. Clinical presentation following MERS-CoV infection can range from asymptomatic to symptomatic. Symptoms can include fever, cough and shortness of breath, with pneumonia as a common clinical diagnosis. Symptoms can progres in severe cases to acute respiratory distress syndrome (ARDS), septic shock and multi-organ failure resulting in death. In addition, the gastrointestinal tract can be involved with gastrointestinal symptoms, such as diarrhoea. **** The clinical course is more severe in immunocompromised patients [8,9].
+Due to the paucity of data regarding the current SARS‐CoV‐2 epidemic, the literature from the SARS epidemic of 2002 and 2003 was reviewed.
+1
+ The initial SARS case was recorded in November 2002 and the epidemic peaked in May 2003. In total, approximately 8096 patients were infected with 774 deaths. Twenty‐one percent of all cases occurred in health care workers.
+1
+ There were clear features of respiratory transmission of disease during AGPs for patients with SARS. In Hong Kong (March 2003), a businessman was intubated at one hospital, and transported to another, leading to the infection of 37 health care workers involved in his care.
 
-As regards the SARS-CoV-2, epidemiological and serological information is still lacking, limiting our ability to describe the full disease spectrum caused by this virus. Currently, 20–25% of laboratory-confirmed cases have severe clinical presentations [11]. Symptoms reported to date in patients infected with SARS-CoV-2 include mainly fever and difficulty breathing, with radiological findings of pneumonia [12]. However, severe and even critically ill patients with ARDS have also been reported.
+In Canada, 43% of cases occurred in health care workers as a result of AGPs.1, 2 One instance involved a difficult intubation of a patient who was under investigation for SARS. This intubation was linked to the infection of seven hospital staff all of whom had been wearing full PPE including N95 masks during patient contact.
+2
 
-##  **Epidemiology**
 
-During the emergence of Severe Acute Respiratory Syndrome-related coronavirus (SARS-CoV) in 2002–2003, the virus affected 8 096 people causing severe pulmonary infections, with 774 deaths (case-fatality ratio: 10%) [7,13].
 
-For MERS-CoV, dromedary camels are important animal reservoirs of the virus and are considered the main intermediate animal host source for human MERS-CoV infections. The majority of human cases have been observed in the Arabian Peninsula, reported from healthcare-associated outbreaks in Saudi Arabia, the United Arab Emirates and South Korea [14-16], while small numbers of imported cases have been reported from various countries. Transmission to patients sharing a room or ward with a MERS patient, to healthcare workers and to family visitors has occurred during healthcare-associated outbreaks [17]. No sustained human-to-human transmission or community outbreaks outside of close contacts have been documented for MERS. The analysis of transmission patterns is supported by molecular epidemiological studies, which are able to identify relatedness of viruses despite no obvious risk factors for transmission [18]. The case-fatality ratio of MERS-CoV infections is estimated to be 35% [9].
+There are multiple reports3, 4 of safely performing tracheotomy on patients with SARS without infecting health care workers. Standard processes included strict infection control measures, seamless and regulated surgical intervention, and if possible delayed (>30 days from diagnosis) tracheotomy in patients who had been SARS positive. Infection control measures (in addition to standard airborne and contact precautions) taken during these procedures included: double gowning, PAPR suits, double gloving, a changing room after the procedure (ante room), performing the procedure in a negative pressure room. The surgical personnel were the most experienced available to minimize operating/exposure time. Patients were completely paralyzed to minimize air movement and coughing and thus viral dissemination via aerosolization. Prior to the procedure, a trial run was completed to ensure maximum efficiency of the procedure. Just prior to airway entry, the patients were pre‐oxygenated, ventilation was held, and the cuff on the endotracheal tube was dropped to minimize air movement over the respiratory mucosa. While the patient was apneic, the tracheotomy incision was performed. Open suctioning of the trachea was avoided. Instead, a closed suctioning system with a viral filter was used.3, 4
 
-For the SARS-CoV-2, the first reported cluster of hospitalised patients with pneumonia was reported on 31 December 2019, from Wuhan, China [19]. Subsequently, reports of cases increased sharply, mainly in China, as well as reports of travel-related cases, with exposure to Wuhan [6,20]. Human-to-human transmission also occurs, as indicated by infection in persons without exposure to wet markets but with exposure to people with respiratory symptoms and by infections among healthcare workers[11].
 
-##  **Transmission**
+During the current SARS‐CoV‐2 pandemic, reports from multiple countries suggest that Otolaryngologists and support staff are at a unique risk of SARS‐CoV‐2 exposure. An early case in China with devastating results involved endoscopic pituitary surgery in a patient with flu‐like symptoms.
+5
+ Contact tracing confirmed that 14 health care workers became infected with SARS‐CoV‐2 from this one procedure. In Wuhan, otolaryngologists and ophthalmologists were among the most commonly infected health care workers. N95 masks did not appear to completely prevent infection of health care workers. PAPR suits were more effective.
+5
+ In Iran, over 20 Otolaryngologists have been hospitalized after testing positive for SARS‐CoV‐2 with at least two deaths, including a chief resident.
+5
+ Two ENT physicians required ventilator support in the United Kingdom, with at least one ultimately succumbing to the infection. To date, over 60 physicians have died in Italy as a result of SARS‐CoV‐2 infection.
+6
+ In Spain, over 12 000 health care workers have tested positive for the disease (14.4% of total reported cases).
+7
+ In the United States, Ohio and Minnesota have reported 16%‐28% of their COVID positive cases involve health care workers.
+7
+ The American Academy of Otolaryngology: Head and Neck Surgery has recommended a multidisciplinary approach in determining indications for tracheotomy in patients with SARS‐CoV‐2. In addition to the necessity of donning appropriate PPE, they recommend not performing tracheotomy until 2‐3 weeks postintubation and repeat SARS‐CoV‐2 testing is negative. The procedures should be performed under a closed circuit with a minimal number of care providers and duration of procedure.
+8
 
-A broad range of coronaviruses are found in bats, which might play a crucial role in the virus evolution of _alpha_ \- and _betacoronavirus_ lineages in particular. However, other animal species can also act as host and animal reservoir.
 
-The incubation period of coronaviruses ranges from 2–14 days. SARS-CoV had an incubation period between 3–10 days and MERS-CoV up to 14 days.
 
-In humans, the transmission of coronaviruses between an infected individual and others can occur via respiratory secretions. This can happen either directly through droplets from coughing or sneezing, or indirectly through touching contaminated objects or surfaces as well as close contact, such as touching or shaking hands and then y touching your nose, eyes or mouth. Nosocomial transmission has been described as an important driver in the epidemiology of SARS and MERS.
+Emergent tracheostomy secondary to upper airway distortion or obstruction precluding endotracheal intubation has not been reported in patients with SARS‐CoV‐2. Early experience suggests that patients with SARS‐CoV‐2 produce relatively little mucus and secretions in relation to other causes of respiratory failure. For these reasons, tracheotomy appears less critical for pulmonary toilet for patients with SARS‐CoV‐2.
+9
 
-For SARS-CoV, bats were the likely origin of the virus, which further spread to Himalayan palm civets, Chinese ferret badgers and raccoon dogs at the wet markets of Guangdong, China. People handling or consuming these animals were infected and further spread the virus through human-to-human transmission.
 
-For MERS-CoV, human-to-human infections related to healthcare settings have been responsible for the majority of cases. Although the precise routes of human-to-human transmission (e.g. droplet, airborne or ingestion) are still unclear, close contact is known to facilitate transmission. Contact with infected animals can also be a route of infection; zoonotic infections due to the consumption of raw camel milk, or other camel products related to MERS-CoV infections have also been reported [9].
 
-For the SARS-CoV-2, the source of infection, animal host and reservoir are currently unknown [6,20].
+As the number of infected patients requiring intubation and ventilator support climbs, a growing population of patients would normally qualify for tracheotomy due to failed extubation or prolonged ventilatory needs. Considering the clear evidence from both SARS and SARS‐CoV‐2 infection,
+9
+ it is imperative that this patient population be managed appropriately to minimize infectious risk to the health care team.
 
-##  **Diagnostics**
+Currently, there are no published reports on tracheotomy in patients with COVID‐19. We felt there were numerous reasons to develop consensus guidelines including:An anticipated high volume in our center (third largest public hospital in the United States).Known risk to intraoperative and postoperative medical staff.Anticipated shortages of resources (ICU beds, ventilators, PPE) which could be impacted by decisions around tracheotomy.High potential for conflict between surgeons and critical care staff over an emotionally charged issue.
 
-In humans, MERS-CoV has been detected in respiratory tract specimens (such as sputum, nasopharyngeal swab, endotracheal aspirate), as well as in urine, faeces and blood [8]. Viral shedding has been detected for three weeks or longer after infection [10]. Interim guidance documents for the testing of [MERS-CoV](https://www.who.int/csr/disease/coronavirus_infections/mers-laboratory-testing/en/) has been developed by WHO [17].
 
-For the novel coronavirus SARS-CoV-2, WHO and ECDC developed interim guidance for laboratory testing to support EU/EEA Member States, as prompt case confirmation is necessary to ensure rapid and effective contact tracing, implementation of infection prevention and control measures according to national recommendations, and collection of relevant epidemiological and clinical information [21,22]. For the SARS-CoV-2 it is important to note that one negative result in a patient with strong epidemiological or clinical suspicion for disease should be confirmed with a second specific RT-PCR test targeting a different gene and/or a clinical sample from a different anatomical site.
+To address these concerns, we assembled a task force of stakeholders in our medical center involved with tracheotomy including otolaryngology, trauma surgery, critical care medicine, and anesthesiology. The group reviewed existing literature and met virtually to draft recommendations. Ideas were refined with final recommendations approved by all Task Force members as summarized below. The availability of highly predictive testing for SARS‐CoV‐2 has greatly simplified the decision process in our medical center; improving the safety of medical staff, preserving resources like PPE and freeing up resources like ventilators and ICU space.
 
-Coinfection with other respiratory pathogens that can also cause lower respiratory disease such as viruses (influenza, respiratory syncytial and metapneumovirus), bacteria ( _Haemophilus_ , _Bordetella_ etc) cannot be excluded, Therefore strongly suspected patients should be thoroughly investigated. 
 
-## **Case management**
+Tracheotomy in patients with active COVID‐19 and severe respiratory failure should be exceedingly rare (Figure 1). In patients with prolonged intubation, elective tracheotomy can be delayed well beyond the usual 14‐day timeline. Despite concern for airway stenosis due to prolonged intubation, recent data suggests early tracheotomy may be less crucial and the safety issues around the pandemic outweigh the risks of late airway stenosis.
+10
 
-The clinical manifestations of MERS-CoV infections range from asymptomatic infection to severe pneumonia, often complicated by ARDS, septic shock, and multi-organ failure leading to death. High-risk groups include those with advanced age and co-morbid conditions, particularly immunosuppression [23,24].
+If a tracheotomy is to be performed in a COVID‐19 positive patient, it should be conducted with the following in mind:Procedures should be completed in the ICU at bedside to avoid risk of exposure during transport. Furthermore, there may be more access to negative pressure rooms in the ICU setting.It is unclear whether open tracheotomy or percutaneous tracheotomy produces less aerosolized viral particles. Each procedure should be permitted until more data is available. Percutaneous tracheotomy has been performed in the ICU setting in our institution for a number of years.
+11
 
-There is currently no specific treatment or vaccine against coronavirus-caused respiratory illness. Supportive care is the mainstay of management for all patients including the ones confirmed with SARS, MERS or SARS-CoV-2. Oxygen, IV fluids and possible mechanical ventilation may be warranted for all patients with severe clinical presentation. Several antiviral treatments including ribavirin, interferons and the anti-HIV combination lopinavir/ritonavir or remdesivir are under investigation for use against MERS-CoV infection and have been initiated against the SARS-CoV-2 [25,26].
+Staff should be minimized and should only include absolutely essential personnel.For open tracheotomy and percutaneous tracheotomy, key recommendations include minimizing opportunity for aerosolization:complete paralysis to avoid coughing;ventilation only with cuff inflation;stopping ventilation prior to entering the airway and deflating the cuff;avoiding suctioning once the trachea is incised due to the risk of aerosolization of high viral load secretions;minimizing cautery due to concerns of aerosolization of viral particles in the smoke plume;minimize bronchoscopy time as much as possible (for percutaneous tracheostomy);minimal PPE worn by staff should include N95, mask with shield, surgical gown, double gloves. PAPR and/or AAMI level 4 suit (ie, ‐Stryker T4) is preferable if available.
+For percutaneous tracheotomy, bronchoscopy time should be minimized as much as possible.Procedures should be performed in a negative pressure room if available.HEPA filter “air scrubber” should be placed in the room, if available, for tracheotomies on patients with COVID positive .
 
-##  **Public health control measures**
 
-In the past, systematic implementation of public health measures such as active case finding, prompt isolation of cases and quarantine of contacts, as well as strict application of infection control practices have been successful in controlling outbreaks, such as the SARS outbreak of 2003 [27]. 
 
-## **Case definition**
 
-Only SARS is currently notifiable in the EU [28]; the case definition laid down in Commission implementing decision (EU) 2018/945 of 22 June 2018 can be found in Annex 1.
+Tracheotomy should not be performed in the “person under investigation” population unless deemed an emergency.For all planned tracheotomy procedures, patients are required to have two negative COVID‐19 swabs (separated by 24 hours) from the nasopharynx. This may be dependent on institution, but at this medical center, two negative nasopharyngeal swabs is thought to be adequate based on discussion with infectious disease faculty.Consider early tracheotomy (in non‐COVID positive) for intubated patients that may require long‐term ventilation to free up ICU space and ventilators.If elective tracheotomy is necessary on COVID negative patients with two negative swabs negative testing (above part 2), this can proceed as normal. However, it is still advised to use airway precautions. However, it is still advised to implement the same precautions as patients with SARS‐CoV‐2 positive if resources allow.
 
-Cases of MERS-CoV and the SARS-CoV-2 infection should be immediately reported to the Early Warning and Response System (EWRS) in accordance with Decision No 1082/2013 on serious cross-border threats to health[29].
 
-In addition, WHO has developed a case definition for the reporting of MERS-CoV and the SARS-CoV-2, which emerged in December 2019 [30] under IHR (2005) [31,32].
 
-##  **Other control measures**
+Emergency tracheotomy should be performed as indication necessitates (tumor, stenosis, trauma, etc.).If COVID testing is not available, patients should be presumed as COVID‐positive and treated as above with enhanced airway precautions.
 
-In the large healthcare associated outbreaks of MERS-CoV in Saudi Arabia, transmission was mostly attributed to poor implementation of infection prevention and control protocols. Therefore, prompt identification of cases, contact tracing and strict application of IPC protocols in healthcare settings remain the mainstays of control of MERS-CoV spread, along with avoidance of contact with animals (e.g. drinking raw camel milk) [33]. 
 
-Regarding the SARS-CoV-2, several vital pieces of information on the infectivity, spectrum of clinical presentation and environmental persistence remain unknown. Knowledge gathered from the response to the above-mentioned SARS-CoV and MERS-CoV outbreaks is being used as a surrogate to assist in informing the control of the currently evolving outbreak that is occurring mainly in China. As such, prompt identification of cases, isolation and contact tracing is currently the mainstream advice for containing possible secondary transmission from imported cases [11].
 
-ECDC has published a document on [public health management of persons having had contact with novel coronavirus cases in the European Union](https://www.ecdc.europa.eu/sites/default/files/documents/Public-health-management-contact-novel-coronavirus-cases-EU_0.pdf) on its website.
+Surgical tracheotomy or tracheotomy tube change are procedures with high risk for aerosol generation. PPE guidance for these procedures should be the same as for bronchoscopy or any airway procedure that disrupts aerodigestive tract mucosa. Currently, this involves N95 mask, face shield, gown, and shoe covers for all patients WITHOUT known or suspected coronavirus infection. Double gloves are recommended with removal of outer gloves before removing PPE.PAPR is additionally recommended for all personnel in the room during surgical tracheostomy in patients WITH known or suspected COVID‐19.
 
-##  **Infection prevention control advice**
 
-###  **General**
 
-In order to reduce the risk of the spread of coronavirus infections, basic preventative measures are advised for the public, including: good respiratory hygiene and respiratory etiquette; frequent careful hand washing; avoiding touching one's eyes, mouth and nose; sanitary disposal of oral and nasal discharges as well as avoiding contact with sick people.
+For COVID‐19 positive patients or those in whom status is unknown:Enhanced droplet precautions as is standard for all patients with COVID (N95, face mask, gown, gloves).All tracheotomy suctioning should be performed using a closed suction system with viral filter.Keep cuff inflated.Delay first tracheotomy tube change to 3‐4 weeks, if possible avoid changing tracheotomy tube until after COVID has passed.
+For patients with COVID‐19 negativePPE for all tracheotomy care should include surgical mask, face shield, gown, and gloves.
 
-Zoonotic infections due to the consumption of raw camel milk, or other camel products related to MERS-CoV infections have been reported. Adequate food and hand hygiene minimise the risk of transmission through such animal products. Therefore, all relevant camel products should be properly cooked, pasteurised or heat-treated before consumption. In unpasteurised camel milk, MERS-CoV remains infectious beyond 72 hours after introduction to the milk but infectious viruses could not be found after pasteurisation [34]. The persistence of the virus in the outdoor environment is not clear.
 
-##  **For health professionals**
 
-During the SARS and MERS outbreaks, infection of healthcare staff was a significant concern. Strict infection prevention and control procedures (IPC) are critical for occupational safety and for the control of those pathogens.
+The SARS‐CoV‐2 pandemic is rapidly evolving with continuous updates in treatment and guidelines. At the time of writing, there were over 492 000 cases in the United States with almost 19 000 deaths.
+12
+ The management algorithm recommended by our multidisciplinary team draws on experiences with the 2002‐2003 SARS epidemic and the current experience of surgeons, anesthesiologists, Intensivists, and other health care workers with SARS‐CoV‐2. The goals of these recommendations are to provide optimal patient care, protection of medical personnel, minimizing further spread of the virus, and preservation of important resources (ICU beds, ventilators, and PPE).
 
-MERS-CoV has been cultured from air and from surfaces and medical equipment up to several days after contact with a positive patient. MERS-CoV remains viable on plastic and metal surfaces for 48 hours at 20°C and 40% relative humidity, which represent common environmental conditions in a hospital ward or regular indoor space. The virions are sensitive to heat, lipid solvents, non-ionic detergents, oxidising agents and ultraviolet light [34]. Viability decreases at higher temperatures or higher levels of relative humidity [34].
 
-Specific guidance for the IPC procedures when caring for a suspect or confirmed MERS-CoV infected patient are available from WHO [35]. 
-
-For aerosol-generating procedures, such as tracheal intubation, broncho-alveolar lavage and manual ventilation, airborne precautions are recommended. The guidance recommends that the procedure should be performed in an adequately ventilated room with the number of persons in the room limited to a minimum.
-
-For the novel coronavirus SARS-CoV-2, while there are still important gaps in the information relevant to determining appropriate prevention and control measures (e.g. virus persistence in the environment), guidance for IPC has been developed by WHO drawing upon the experience with the SARS and MERS outbreaks in the past [6,35].
-
-##  **List of references**
-
-1\. Channappanavar R, Perlman S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Seminars in Immunopathology. 2017 July 01;39(5):529-39.
-
-2\. Viruses ICoTo. ICTV 9th Report 2011 [14 January 2020]. Available from: h[ttps://talk.ictvonline.org/ictv-reports/ictv_9th_report/positive-sense-rna-viruses-2011/w/posrna_viruses/223/coronaviridae-figures.](//talk.ictvonline.org/ictv-reports/ictv_9th_report/positive-sense-rna-viruses-2011/w/posrna_viruses/223/coronaviridae-figures.)
-
-3\. Yin Y, Wunderink RG. MERS, SARS and other coronaviruses as causes of pneumonia. Respirology. 2018;23(2):130-7.
-
-4\. Wuhan City Health Committee (WCHC). Wuhan Municipal Health Committee's report on unexplained viral pneumonia 2020 [14 January 2020]. Available from: h[ttp://wjw.wuhan.gov.cn/front/web/showDetail/2020010509020.](//wjw.wuhan.gov.cn/front/web/showDetail/2020010509020.)
-
-5\. WHO. WHO Statement Regarding Cluster of Pneumonia Cases in Wuhan, China Geneva2020 [updated 9 January 202014 January 2020]. Available from: h[ttps://www.who.int/china/news/detail/09-01-2020-who-statement-regarding-cluster-of-pneumonia-cases-in-wuhan-china.](//www.who.int/china/news/detail/09-01-2020-who-statement-regarding-cluster-of-pneumonia-cases-in-wuhan-china.)
-
-6\. WHO. Novel Coronavirus – China Geneva2020 [updated 12 January 202014 January 2020]. Available from: h[ttps://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/.](//www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/)
-
-7\. WHO. SARS (Severe Acute Respiratory Syndrome) Geneva [14 January 2020]. Available from: h[ttps://www.who.int/ith/diseases/sars/en/.](//www.who.int/ith/diseases/sars/en/)
-
-8\. Hui DS, Azhar EI, Kim Y-J, Memish ZA, Oh M-d, Zumla A. Middle East respiratory syndrome coronavirus: risk factors and determinants of primary, household, and nosocomial transmission. The Lancet Infectious Diseases. 2018;18(8):e217-e27.
-
-9\. European Centre for Disease Prevention and Control (ECDC). Rapid risk assessment: Severe respiratory disease associated with Middle East respiratory syndrome coronavirus (MERS-CoV), 22nd update. 2018.
-
-10\. Corman, V. M., et al. (2015). "Viral Shedding and Antibody Response in 37 Patients With Middle East Respiratory Syndrome Coronavirus Infection." Clinical Infectious Diseases **62** (4): 477-483.
-
-11\. WHO. Statement on the meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV) 2020 [updated 23 January 2020]. Available from: h[ttps://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)](//www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-\(2005\)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-\(2019-ncov\)).
-
-12\. European Centre for Disease Prevention and Control (ECDC). Risk assessment: Outbreak of acute respiratory syndrome associated with a novel coronavirus, Wuhan, China; first update 2020 [updated 22 January 2020]. Available from: h[ttps://www.ecdc.europa.eu/en/publications-data/risk-assessment-outbreak-acute-respiratory-syndrome-associated-novel-coronavirus.](//www.ecdc.europa.eu/en/publications-data/risk-assessment-outbreak-acute-respiratory-syndrome-associated-novel-coronavirus.)
-
-13\. European Centre for Disease Prevention and Control (ECDC). Facts about severe acute respiratory syndrome (SARS) Stockholm2018 [14 January 2020]. Available from: h[ttps://www.ecdc.europa.eu/en/severe-acute-respiratory-syndrome/facts.](//www.ecdc.europa.eu/en/severe-acute-respiratory-syndrome/facts.)
-
-14\. Oboho IK, Tomczyk SM, Al-Asmari AM, Banjar AA, Al-Mugti H, Aloraini MS, et al. 2014 MERS-CoV outbreak in Jeddah—a link to health care facilities. New England Journal of Medicine. 2015;372(9):846-54.
-
-15\. Cowling BJ, Park M, Fang VJ, Wu P, Leung GM, Wu JT. Preliminary epidemiologic assessment of MERS-CoV outbreak in South Korea, May–June 2015. Euro surveillance: bulletin Europeen sur les maladies transmissibles= European communicable disease bulletin. 2015;20(25).
-
-16\. Kim K, Tandi T, Choi JW, Moon J, Kim M. Middle East respiratory syndrome coronavirus (MERS-CoV) outbreak in South Korea, 2015: epidemiology, characteristics and public health implications. Journal of Hospital Infection. 2017;95(2):207-13.
-
-17\. WHO. Laboratory testing for Middle East Respiratory Syndrome Coronavirus. Interim guidance 2018 [24 January 2020]. Available from: h[ttps://www.who.int/csr/disease/coronavirus_infections/mers-laboratory-testing/en/.](//www.who.int/csr/disease/coronavirus_infections/mers-laboratory-testing/en/)
-
-18\. Corman VM, Albarrak AM, Omrani AS, Albarrak MM, Farah ME, Almasri M, et al. Viral Shedding and Antibody Response in 37 Patients With Middle East Respiratory Syndrome Coronavirus Infection. Clinical Infectious Diseases. 2015;62(4):477-83.
-
-19\. Wuhan City Health Committee (WCHC). Wuhan Municipal Health and Health Commission's briefing on the current pneumonia epidemic situation in our city 2019 [updated 31 December 201914 January 2020]. Available from: h[ttp://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989.](//wjw.wuhan.gov.cn/front/web/showDetail/2019123108989.)
-
-20\. European Centre for Disease Prevention and Control (ECDC). Novel coronavirus in China 2020 [24 January 2020]. Available from: h[ttps://www.ecdc.europa.eu/en/novel-coronavirus-china.](//www.ecdc.europa.eu/en/novel-coronavirus-china.)
-
-21\. European Centre for Disease Prevention and Control (ECDC). Laboratory testing of suspect cases of 2019 nCoV using RT-PCR 2020 [17 January 2020]. Available from: h[ttps://www.ecdc.europa.eu/en/publications-data/laboratory-testing-suspect-cases-2019-ncov-using-rt-pcr.](//www.ecdc.europa.eu/en/publications-data/laboratory-testing-suspect-cases-2019-ncov-using-rt-pcr.)
-
-22\. WHO. Laboratory testing for 2019 novel coronavirus (2019-nCoV) in suspected human cases 2020 [17 January 2020]. Available from: h[ttps://www.who.int/health-topics/coronavirus/laboratory-diagnostics-for-novel-coronavirus.](//www.who.int/health-topics/coronavirus/laboratory-diagnostics-for-novel-coronavirus.)
-
-23\. Arabi YM, Balkhy HH, Hayden FG, Bouchama A, Luke T, Baillie JK, et al. Middle East respiratory syndrome. New England Journal of Medicine. 2017;376(6):584-94.
-
-24\. WHO. Clinical management of severe acute respiratory infection when Middle East respiratory syndrome coronavirus (MERS-CoV) infection is suspected. Interim guidance 2019 [updated January 2019]. Available from: h[ttps://www.who.int/csr/disease/coronavirus_infections/case-management-ipc/en/.](//www.who.int/csr/disease/coronavirus_infections/case-management-ipc/en/)
-
-25\. Sheahan TP, Sims AC, Leist SR, Schäfer A, Won J, Brown AJ, et al. Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERS-CoV. Nature Communications. 2020 2020/01/10;11(1):222.
-
-26\. WHO. Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected 2020 [17 January 2020]. Available from: h[ttps://www.who.int/internal-publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected.](//www.who.int/internal-publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-\(ncov\)-infection-is-suspected.)
-
-27\. Bell DM, World Health Organization Working Group on I, Community Transmission of S. Public health interventions and SARS spread, 2003. Emerging infectious diseases. 2004;10(11):1900-6.
-
-28\. COMMISSION IMPLEMENTING DECISION (EU) 2018/945 of 22 June 2018 on the communicable diseases and related special health issues to be covered by epidemiological surveillance as well as relevant case definitions, (2018).
-
-29\. Decision No 1082/2013/EU of the European Parliament and of the Council of 22 October 2013 on serious cross-border threats to health and repealing Decision No 2119/98/EC 2013 [17 January 2020]. Available from: h[ttps://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013D1082.](//eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013D1082.)
-
-30\. WHO. Surveillance case definitions for human infection with novel coronavirus (nCoV) 2020 [17 January 2020]. Available from: h[ttps://www.who.int/internal-publications-detail/surveillance-case-definitions-for-human-infection-withnovel-coronavirus-(ncov)](//www.who.int/internal-publications-detail/surveillance-case-definitions-for-human-infection-withnovel-coronavirus-\(ncov\)).
-
-31\. WHO. Middle East respiratory syndrome coronavirus: Case definition for reporting to WHO 2017 [23 January 2020]. Available from: h[ttps://www.who.int/csr/disease/coronavirus_infections/case_definition/en/.](//www.who.int/csr/disease/coronavirus_infections/case_definition/en/)
-
-32\. WHO. International Health Regulations (2005), 3rd Ed. 2016 [17 January 2020]. Available from: h[ttps://www.who.int/ihr/publications/9789241580496/en/.](//www.who.int/ihr/publications/9789241580496/en/)
-
-33\. Mackay IM, Arden KE. MERS coronavirus: diagnostics, epidemiology and transmission. Virol J. 2015 Dec 22;12:222.
-
-34\. van Doremalen N, Bushmaker T, Munster VJ. Stability of Middle East respiratory syndrome coronavirus (MERS-CoV) under different environmental conditions. Eurosurveillance. 2013;18(38):20590.
-
-35\. WHO. Infection prevention and control during health care for probable or confirmed cases of Middle East respiratory syndrome coronavirus (MERS-CoV) infection. Interim guidance 2019 [updated October 2019]. Available from: <https://www.who.int/csr/disease/coronavirus_infections/ipc-mers-cov/en/>.
-
-##  **ANNEX**
-
-###  **Case definition SARS, 2018**
-
- **Clinical criteria**
-
-Any person with fever or a history of fever
-
-AND
-
-At least one of the following three:
-
-  * Cough
-  * Difficulty in breathing
-  * Shortness of breath
-
-
-
-AND
-
-At least one of the following four:
-
-  * Radiographic evidence of pneumonia
-  * Radiographic evidence of acute respiratory distress syndrome
-  * Autopsy findings of pneumonia
-  * Autopsy findings of acute respiratory distress syndrome
-
-
-
-AND
-
-No alternative diagnosis which can fully explain the illness
-
- **Laboratory criteria**
-
- **Laboratory criteria for case confirmation**
-
-At least one of the following three:
-
-  * Isolation of virus in cell culture from any clinical specimen and identification of SARS-CoV using method such as RT-PCR.
-  * Detection SARS-CoV nucleic acid in at least one of the following three: 
-    * At least two different clinical specimens (for example, nasopharyngeal swab and stool)
-    * The same clinical specimen collected on two or more occasions during the course of the illness (for example, sequential nasopharyngeal aspirates)
-    * Two different assays or repeat RT-PCR using a new RNA extract from the original clinical sample on each occasion of testing.
-
-
-  * SARS-CoV specific antibody response by one of the following two: 
-    * Seroconversion by ELISA or IFA in acute and convalescent phase serum tested in parallel
-    * Four-fold or greater rise in antibody titre between acute and convalescent phase sera tested in parallel.
-
-
-
-**Laboratory criteria for a probable case**
-
-At least one of the following two:
-
-  * A single positive antibody test for SARS-CoV
-  * A positive PCR result for SARS-CoV on a single clinical specimen and assay.
-
-
-
-**Epidemiological criteria**
-
-At least one of the following three:
-
-  * Any person with at least one of the following three: 
-    * Employed in an occupation associated with an increased risk of SARS-CoV exposure (for example, staff in a laboratory working with live SARS-CoV/SARS-CoV-like viruses or storing clinical specimens infected with SARS-CoV; persons with exposure to wildlife or other animals considered a reservoir of SARS-CoV, their excretions or secretions, etc.) 6.7.2018 EN Official Journal of the European Union L 170/39
-    * Close contact (1) of one or more persons with confirmed SARS or under investigation for SARS
-    * History of travel to, or residence in, an area experiencing an outbreak of SARS.
-  * Two or more healthcare workers (2) with clinical evidence of SARS in the same healthcare unit with onset of illness in the same 10-day period
-  * Three or more persons (healthcare workers and/or patients and/or visitors) with clinical evidence of SARS with onset of illness in the same 10-day period and epidemiologically linked to a healthcare facility
-
-
-
-**Case classification for the inter-epidemic period**
-
-Also applies during an outbreak in a non-affected country or area
-
-A. Possible case
-
-Any person meeting the clinical criteria with an epidemiological link
-
-B. Probable case
-
-Any person meeting the clinical criteria with an epidemiological link and meeting the laboratory criteria for a probable case
-
-C. Nationally confirmed case
-
-Any person meeting the clinical and the laboratory criteria for case confirmation where the testing has been performed at a national reference laboratory
-
-D. Confirmed case
-
-Any person meeting the clinical and the laboratory criteria for case confirmation where the testing has been performed at a WHO SARS verification and reference laboratory
-
- **Case classification during an outbreak**
-
-Applies during an outbreak in a country/area where at least one person has been laboratory confirmed by a WHO SARS verification and reference laboratory
-
-A. Possible case
-
-Any person meeting the clinical criteria
-
-B. Probable case
-
-Any person meeting the clinical criteria with an epidemiological link to a nationally confirmed or a confirmed case
-
-C. Nationally confirmed case
-
-Any person meeting the clinical and the laboratory criteria for case confirmation where the testing has been performed at a national reference laboratory
-
-D. Confirmed case
-
-One of the following three:
-
-  * Any person meeting the clinical and the laboratory criteria for case confirmation where the testing has been performed at a WHO SARS verification and reference laboratory
-  * Any nationally confirmed case with an epidemiological link to a chain of transmission where at least one case has been independently verified by a WHO SARS Reference and Verification Laboratory
-  * Any person meeting the clinical criteria and with laboratory criteria for probable case with an epidemiological link to a chain of transmission where at least one case has been independently verified by a WHO SARS Reference and Verification Laboratory
