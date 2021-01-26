@@ -23,3 +23,26 @@ Contains a sample of data provided by the PANSURG REDASA project
 - Example is show below
 
   ![annotated example](data/visualisation/annotation_example.png)
+  
+  # Citations
+
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4467900.svg)](https://doi.org/10.5281/zenodo.4467900)
+  
+  ## Cite as
+    
+    `PanSurg Consortium. (2020, October). REDASA Sample Data (Version v0.1). Zenodo. http://doi.org/10.5281/zenodo.4467900`
+
+  ## Bibtex
+  
+  ```bibtex
+  @software{redasa-sample-data-v0.1,
+    author       = {PanSurg Consortium},
+    title        = {REDASA Sample Data},
+    month        = oct,
+    year         = 2020,
+    publisher    = {Zenodo},
+    version      = {v0.1},
+    doi          = {10.5281/zenodo.4467900},
+    url          = {https://doi.org/10.5281/zenodo.4467900}
+  }
+```
