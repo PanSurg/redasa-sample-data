@@ -37,6 +37,7 @@ Contains a sample of data provided by the PANSURG REDASA project
   ```bibtex
   @software{redasa-sample-data-v0.1,
     author       = {PanSurg Consortium},
+    organization = {Imperial College London},
     title        = {REDASA Sample Data},
     month        = oct,
     year         = 2020,
